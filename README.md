@@ -1,2 +1,2 @@
 # IT-Support-Portfolio
-rofessional portfolio showcasing practical IT Support, networking, hardware and troubleshooting projects.
+Professional portfolio showcasing practical IT Support, networking, hardware and troubleshooting projects.
