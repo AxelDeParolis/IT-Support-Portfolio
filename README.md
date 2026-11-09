@@ -42,6 +42,4 @@ Active Directory
 
 Help Desk Ticket Simulations
 
-Career Objective
-
-Seeking an entry-level IT Support / Help Desk opportunity where I can apply my technical knowledge, develop practical experience and contribute to IT operations.
+Career Objective : Seeking an entry-level IT Support / Help Desk opportunity where I can apply my technical knowledge, develop practical experience and contribute to IT operations.
